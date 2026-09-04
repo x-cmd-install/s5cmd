@@ -7,7 +7,7 @@ about:
   head: 54d6a8a
   archived: false
   latestVersion: v2.3.0
-  collectedAt: 2026-09-04T19:27:06Z
+  collectedAt: 2026-09-04T21:10:08Z
 timeline:
   created: 2016-11-16
   lastCommit: 2025-06-13
@@ -83,6 +83,89 @@ total:
   openIssue: 144
   commit: 548
 ---
+path: /home/runner/.x-repo/github.com/peak/s5cmd
+collectedAt: 2026-09-04T21:10:11Z
+loc:
+  Go:
+    code: 405232
+    comments: 71891
+    blanks: 50127
+    files: 1178
+  AssemblyGAS:
+    code: 6331
+    comments: 303
+    blanks: 1638
+    files: 32
+  Sh:
+    code: 973
+    comments: 48
+    blanks: 41
+    files: 4
+  Python:
+    code: 515
+    comments: 8
+    blanks: 107
+    files: 3
+  Makefile:
+    code: 219
+    comments: 23
+    blanks: 79
+    files: 7
+  Yaml:
+    code: 163
+    comments: 24
+    blanks: 17
+    files: 5
+  Bash:
+    code: 76
+    comments: 8
+    blanks: 13
+    files: 2
+  C:
+    code: 28
+    comments: 6
+    blanks: 10
+    files: 1
+  ReStructuredText:
+    code: 17
+    comments: 0
+    blanks: 7
+    files: 1
+  Bitbake:
+    code: 14
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 14
+    comments: 0
+    blanks: 1
+    files: 2
+  Ini:
+    code: 10
+    comments: 0
+    blanks: 2
+    files: 1
+  Json:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2634
+    blanks: 1111
+    files: 30
+  Text:
+    code: 0
+    comments: 2205
+    blanks: 644
+    files: 7
+total:
+  code: 414209
+  comments: 77234
+  blanks: 53909
+  files: 1275
 ---
 date: "2026-08-24"
 repo:
