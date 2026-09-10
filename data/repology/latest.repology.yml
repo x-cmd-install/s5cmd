@@ -1,0 +1,170 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: s5cmd
+  binname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: 2.3.0-r14
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - MIT
+- repo: aur
+  srcname: s5cmd
+  binname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: 2.3.0-2
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - k0ste@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: s5cmd-bin
+  binname: s5cmd-bin
+  visiblename: s5cmd-bin
+  version: 2.3.0
+  origversion: 2.3.0-2
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool.(Prebuilt version)
+  maintainers:
+    - zxp19821005@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: net/s5cmd
+  binname: s5cmd
+  visiblename: net/s5cmd
+  version: 2.3.0
+  origversion: 2.3.0_22
+  status: newest
+  summary: Very fast S3 command-line tool written in Go
+  maintainers:
+    - ehaupt@freebsd.org
+  categories:
+    - net
+- repo: gnuguix
+  srcname: s5cmd
+  binname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+- repo: homebrew
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+- repo: homebrew
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Parallel S3 and local filesystem execution tool
+- repo: macports
+  srcname: net/s5cmd
+  binname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool.
+  maintainers:
+    - manojkarthick@github
+  licenses:
+    - MIT
+  categories:
+    - net
+- repo: nix_stable_24_05
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.2.2
+  origversion: null
+  status: outdated
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - tomberek@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.2.2
+  origversion: null
+  status: outdated
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - tomberek@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - tomberek@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - tomberek@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - tomberek@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - tomberek@gmail.com
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: spack
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  maintainers:
+    - ebagrenrut@spack
+  licenses:
+    - MIT
