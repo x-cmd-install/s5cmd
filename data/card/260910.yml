@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.0"
   latestRelease: "v2.3.0"
   latestPrerelease: "v2.1.0-beta.1"
-  collectedAt: 2026-09-10T20:43:27Z
+  collectedAt: 2026-09-10T23:07:39Z
 timeline:
   created: 2016-11-16
   lastCommit: 2025-06-13
@@ -86,7 +86,7 @@ total:
   commit: 548
 ---
 path: /home/runner/.x-repo/github.com/peak/s5cmd
-collectedAt: 2026-09-10T20:43:32Z
+collectedAt: 2026-09-10T23:07:43Z
 loc:
   Go:
     code: 405232
