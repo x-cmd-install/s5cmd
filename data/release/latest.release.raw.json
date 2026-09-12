@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5037198,
       "digest": null,
-      "download_count": 2791789,
+      "download_count": 2796466,
       "created_at": "2024-12-16T15:50:41Z",
       "updated_at": "2024-12-16T15:50:41Z",
       "browser_download_url": "https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_Linux-64bit.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4617785,
       "digest": null,
-      "download_count": 964083,
+      "download_count": 965458,
       "created_at": "2024-12-16T15:50:41Z",
       "updated_at": "2024-12-16T15:50:41Z",
       "browser_download_url": "https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_Linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5239818,
       "digest": null,
-      "download_count": 356941,
+      "download_count": 357666,
       "created_at": "2024-12-16T15:50:44Z",
       "updated_at": "2024-12-16T15:50:44Z",
       "browser_download_url": "https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_linux_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4765766,
       "digest": null,
-      "download_count": 39625,
+      "download_count": 39650,
       "created_at": "2024-12-16T15:50:43Z",
       "updated_at": "2024-12-16T15:50:44Z",
       "browser_download_url": "https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_linux_arm64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5149447,
       "digest": null,
-      "download_count": 3977,
+      "download_count": 3988,
       "created_at": "2024-12-16T15:50:41Z",
       "updated_at": "2024-12-16T15:50:41Z",
       "browser_download_url": "https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_macOS-64bit.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4870130,
       "digest": null,
-      "download_count": 29118,
+      "download_count": 29132,
       "created_at": "2024-12-16T15:50:42Z",
       "updated_at": "2024-12-16T15:50:43Z",
       "browser_download_url": "https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_macOS-arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5220988,
       "digest": null,
-      "download_count": 13034,
+      "download_count": 13095,
       "created_at": "2024-12-16T15:50:42Z",
       "updated_at": "2024-12-16T15:50:43Z",
       "browser_download_url": "https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_Windows-64bit.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1535,
       "digest": null,
-      "download_count": 120896,
+      "download_count": 121598,
       "created_at": "2024-12-16T15:50:44Z",
       "updated_at": "2024-12-16T15:50:44Z",
       "browser_download_url": "https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_checksums.txt"
