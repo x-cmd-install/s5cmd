@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 1 | 2 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 2 | 1 | 4 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 11 | 1 | 8 | 0 |
-| 360d | 2025-09-18 | 0 | 0 | 23 | 2 | 18 | 0 |
-| last720d | 2024-09-23 | 1 | 6 | 38 | 15 | 56 | 8 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 1 | 1 | 2 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 2 | 1 | 4 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 10 | 1 | 8 | 0 |
+| 360d | 2025-09-19 | 0 | 0 | 23 | 2 | 16 | 0 |
+| last720d | 2024-09-24 | 1 | 6 | 38 | 15 | 56 | 8 |
 
 ## Release assets
 
@@ -86,16 +86,6 @@ Lowest-scoring checks:
 | [s5cmd_2.3.0_Windows-armv6.zip](https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_Windows-armv6.zip) | 4.7 MiB | `native/win/x64` |
 | [s5cmd_checksums.txt](https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_checksums.txt) | 1.5 KiB | `other` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/s5cmd). **13** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.3.0` | ✅ latest |
-| Nix unstable | `2.3.0` | ✅ latest |
-| Alpine edge | `2.3.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for s5cmd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `s5cmd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +95,4 @@ Install metadata for s5cmd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:32:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:45:28Z._
