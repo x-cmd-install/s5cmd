@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,220 · **Forks**: 351 · **Open issues**: 445 · **Contributors**: 48
+- **Stars**: 4,221 · **Forks**: 351 · **Open issues**: 445 · **Contributors**: 48
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 10 | 0 | 1 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 10 | 1 | 2 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 14 | 1 | 8 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 27 | 2 | 11 | 0 |
-| last720d | 2024-11-01 | 1 | 4 | 45 | 10 | 54 | 5 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 10 | 0 | 1 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 10 | 1 | 2 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 14 | 1 | 8 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 27 | 2 | 11 | 0 |
+| last720d | 2024-11-02 | 1 | 4 | 45 | 10 | 54 | 5 |
 
 ## Release assets
 
@@ -86,6 +86,16 @@ Lowest-scoring checks:
 | [s5cmd_2.3.0_Windows-armv6.zip](https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_2.3.0_Windows-armv6.zip) | 4.7 MiB | `native/win/x64` |
 | [s5cmd_checksums.txt](https://github.com/peak/s5cmd/releases/download/v2.3.0/s5cmd_checksums.txt) | 1.5 KiB | `other` |
 
+## Distribution status
+
+Reported by **16** distros on [repology.org](https://repology.org/project/s5cmd). **13** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.3.0` | ✅ latest |
+| Nix unstable | `2.3.0` | ✅ latest |
+| Alpine edge | `2.3.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for s5cmd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `s5cmd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +105,4 @@ Install metadata for s5cmd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:25:15Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:25:28Z._
