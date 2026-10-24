@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,221 · **Forks**: 351 · **Open issues**: 445 · **Contributors**: 48
+- **Stars**: 4,222 · **Forks**: 351 · **Open issues**: 445 · **Contributors**: 48
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 10 | 0 | 1 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 10 | 1 | 2 | 0 |
-| last180d | 2026-04-26 | 0 | 0 | 14 | 1 | 8 | 0 |
-| 360d | 2025-10-28 | 0 | 0 | 27 | 2 | 11 | 0 |
-| last720d | 2024-11-02 | 1 | 4 | 45 | 10 | 54 | 5 |
+| 30d | 2026-09-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 0 | 0 | 10 | 0 | 1 | 0 |
+| 90d | 2026-07-26 | 0 | 0 | 10 | 1 | 2 | 0 |
+| last180d | 2026-04-27 | 0 | 0 | 14 | 1 | 8 | 0 |
+| 360d | 2025-10-29 | 0 | 0 | 27 | 2 | 11 | 0 |
+| last720d | 2024-11-03 | 1 | 4 | 45 | 10 | 54 | 5 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for s5cmd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:25:28Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:12:22Z._
