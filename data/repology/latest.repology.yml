@@ -1,10 +1,32 @@
+- repo: gnuguix
+  srcname: s5cmd
+  binname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+- repo: homebrew
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+- repo: homebrew
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Parallel S3 and local filesystem execution tool
 - repo: alpine_edge
   subrepo: testing
   srcname: s5cmd
   binname: s5cmd
   visiblename: s5cmd
   version: 2.3.0
-  origversion: 2.3.0-r14
+  origversion: 2.3.0-r15
   status: newest
   summary: Parallel S3 and local filesystem execution tool
   maintainers:
@@ -47,28 +69,6 @@
     - ehaupt@freebsd.org
   categories:
     - net
-- repo: gnuguix
-  srcname: s5cmd
-  binname: s5cmd
-  visiblename: s5cmd
-  version: 2.3.0
-  origversion: null
-  status: newest
-  summary: Parallel S3 and local filesystem execution tool
-- repo: homebrew
-  srcname: s5cmd
-  visiblename: s5cmd
-  version: 2.3.0
-  origversion: null
-  status: newest
-  summary: Parallel S3 and local filesystem execution tool
-- repo: homebrew
-  srcname: s5cmd
-  visiblename: s5cmd
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Parallel S3 and local filesystem execution tool
 - repo: macports
   srcname: net/s5cmd
   binname: s5cmd
