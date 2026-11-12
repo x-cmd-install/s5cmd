@@ -1,25 +1,3 @@
-- repo: gnuguix
-  srcname: s5cmd
-  binname: s5cmd
-  visiblename: s5cmd
-  version: 2.3.0
-  origversion: null
-  status: newest
-  summary: Parallel S3 and local filesystem execution tool
-- repo: homebrew
-  srcname: s5cmd
-  visiblename: s5cmd
-  version: 2.3.0
-  origversion: null
-  status: newest
-  summary: Parallel S3 and local filesystem execution tool
-- repo: homebrew
-  srcname: s5cmd
-  visiblename: s5cmd
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Parallel S3 and local filesystem execution tool
 - repo: alpine_edge
   subrepo: testing
   srcname: s5cmd
@@ -62,13 +40,35 @@
   binname: s5cmd
   visiblename: net/s5cmd
   version: 2.3.0
-  origversion: 2.3.0_24
+  origversion: 2.3.0_25
   status: newest
   summary: Very fast S3 command-line tool written in Go
   maintainers:
     - ehaupt@freebsd.org
   categories:
     - net
+- repo: gnuguix
+  srcname: s5cmd
+  binname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+- repo: homebrew
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+- repo: homebrew
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Parallel S3 and local filesystem execution tool
 - repo: macports
   srcname: net/s5cmd
   binname: s5cmd
