@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: s5cmd
+  visiblename: s5cmd
+  version: 2.3.0
+  origversion: null
+  status: newest
+  summary: Parallel S3 and local filesystem execution tool
+  maintainers:
+    - tomberek@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: s5cmd
@@ -106,17 +117,6 @@
   licenses:
     - MIT
 - repo: nix_stable_25_05
-  srcname: s5cmd
-  visiblename: s5cmd
-  version: 2.3.0
-  origversion: null
-  status: newest
-  summary: Parallel S3 and local filesystem execution tool
-  maintainers:
-    - tomberek@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
   srcname: s5cmd
   visiblename: s5cmd
   version: 2.3.0
