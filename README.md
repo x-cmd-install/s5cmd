@@ -24,16 +24,6 @@ Total: **413,597** lines of code across **1224** files in the top 5 languages.
 | Python | 515 | 8 | 107 | 3 |
 | Makefile | 219 | 23 | 79 | 7 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.8 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/peak/s5cmd>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,240 · **Forks**: 351 · **Open issues**: 445 · **Contributors**: 48
+- **Stars**: 4,241 · **Forks**: 351 · **Open issues**: 445 · **Contributors**: 48
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 9 | 0 | 1 | 0 |
-| last180d | 2026-05-31 | 0 | 0 | 11 | 1 | 5 | 0 |
-| 360d | 2025-12-02 | 0 | 0 | 18 | 2 | 10 | 0 |
-| last720d | 2024-12-07 | 1 | 4 | 38 | 9 | 52 | 4 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 9 | 0 | 1 | 0 |
+| last180d | 2026-06-01 | 0 | 0 | 11 | 1 | 5 | 0 |
+| 360d | 2025-12-03 | 0 | 0 | 18 | 2 | 10 | 0 |
+| last720d | 2024-12-08 | 1 | 4 | 38 | 9 | 52 | 4 |
 
 ## Release assets
 
@@ -95,4 +85,4 @@ Install metadata for s5cmd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:00:17Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:37:40Z._
